@@ -3,9 +3,9 @@ API REST desarrollada con Spring Boot y MySQL para la gestión de usuarios, publ
 
 Tecnologías:
 
-Java
-Spring Boot
-Spring Data JPA
-MySQL
-Maven
-REST API
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Maven
+- REST API
