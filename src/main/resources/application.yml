@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: Proyecto2025
+  datasource:
+    hikari:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      jdbc-url: jdbc:mysql://localhost:3306/Proyecto2025?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+      password: mysql1
+      username: root
+  jpa:
+    show-sql: true
